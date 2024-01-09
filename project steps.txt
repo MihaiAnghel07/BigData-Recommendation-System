@@ -1,0 +1,5 @@
+1. Importing the Dataset (load into the notebook)
+2. Reviewing the Dataset (data cleaning)
+3. Exploratory Data Analysis
+4. Modeling
+5. Deployment
